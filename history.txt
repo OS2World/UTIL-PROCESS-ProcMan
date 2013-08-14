@@ -1,0 +1,47 @@
+                   *****-------------------------------*****
+                                P r o c M a n 
+                   *****-------------------------------*****
+                       a process manager for eComStation
+
+                           Beta 3 - April 6, 2004
+                                   J M A
+
+                  ** BETA VERSION - USE AT YOUR OWN RISK !! **
+
+
+Beta 4 - April 6, 2004
+-------------------------------------------------------------------------------
+* Kill WPS
++ Internal threading and semaphores reworked for performance
++ cadh.sys and xf86sup.sys are now optional
++ Documentation updated
+- F1 and F3 not implemented yet
+
+
+
+Beta 3 - Mars 14, 2004
+-------------------------------------------------------------------------------
+* Now uses Veit Kannegieser CADH.SYS as activator
+* Switchlist 'view'
+* Restart WPS
++ Development partly restarted
++ fastio$ more 'seamless'
+
+
+Beta 2 - January 22, 2002
+-------------------------------------------------------------------------------
+* Added Support for poping up in fullscreen sessions
++ Moved unload to popup screen 
+
+
+Alpha 1 - September 27, 2001
+-------------------------------------------------------------------------------
+* First release
+
+
+Contact
+-------------------------------------------------------------------------------
+You can contact the developer (me :) at:
+mail@jma.se
+
+
