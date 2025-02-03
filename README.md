@@ -1,8 +1,6 @@
 UTIL-PROCESS-ProcMan
 ====================
-
 A process manager for eComStation
-
 
 LICENSE
 ===============
@@ -18,4 +16,4 @@ AUTHORS
 
 LINKS
 ===============
-* 
+* https://www.os2world.com/wiki/index.php?title=ProcMan
